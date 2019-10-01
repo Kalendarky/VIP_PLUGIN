@@ -1,4 +1,4 @@
-/* LICENSE: https://github.com/Kalendarky/license/blob/master/v1/LICENSE.md */
+/* LICENSE: https://github.com/Kalendarky/Licenses/blob/master/v1/README.md */
 
 #include <amxmodx>
 #include <amxmisc>
